@@ -1,0 +1,19 @@
+--- --- * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 18px;
+  font-family: Arial;
+  background-image: url("/assets/images/law.jpg");
+}
+
+img {
+  width: 400px;
+  height: 600px;
+  border-radius: 10%;
+}
+
+/*# sourceMappingURL=styles.css.map */
